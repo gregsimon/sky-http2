@@ -1,4 +1,4 @@
-// Http2 Server for Modular/Sky "applications"
+// Http2 Server for Sky "applications"
 
 var fs = require('fs');
 var path = require('path');
